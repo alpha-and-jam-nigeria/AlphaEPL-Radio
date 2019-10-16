@@ -8,6 +8,7 @@
 /.idea
 /.vscode
 /nbproject
+/assets/audio
 /.vagrant
 Homestead.json
 Homestead.yaml
